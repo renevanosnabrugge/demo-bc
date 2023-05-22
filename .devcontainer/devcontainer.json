@@ -5,5 +5,14 @@
 			"installBicep": true,
 			"version": "latest"
 		}
+
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"bierner.github-markdown-preview"
+			]
+		}
 	}
+	
 }
